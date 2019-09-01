@@ -3392,7 +3392,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#nav {
-				display: none;
+				
 			}
 
 				#nav + #main {
@@ -3704,6 +3704,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#main > .main {
+				margin-top:50px !important;
 				padding: 3em 2em 1em 2em ;
 			}
 
@@ -3717,6 +3718,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#main > .main {
+				margin-top:50px !important;
 				padding: 3em 1.5em 1em 1.5em ;
 			}
 
@@ -3734,6 +3736,7 @@ input, select, textarea {
 			}
 
 				#main > .main {
+					margin-top:50px !important;
 					padding: 2.5em 1em 0.5em 1em ;
 				}
 
