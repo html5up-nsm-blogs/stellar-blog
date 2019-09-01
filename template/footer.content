@@ -1,0 +1,11 @@
+<!-- Footer -->
+	<footer id="footer">
+		<p class="copyright">
+			<a href="#" class="icon brands fa-twitter alt"><span class="label">Twitter</span></a>
+			<a href="#" class="icon brands fa-facebook-f alt"><span class="label">Facebook</span></a>
+			<a href="#" class="icon brands fa-instagram alt"><span class="label">Instagram</span></a>
+			<a href="#" class="icon brands fa-github alt"><span class="label">GitHub</span></a>
+			<a href="#" class="icon brands fa-dribbble alt"><span class="label">Dribbble</span></a>
+		</p>
+		<p class="copyright">&copy; Untitled. &nbsp;&nbsp; Design: <a href="https://html5up.net">HTML5 UP</a>. &nbsp;&nbsp; Site Manager: <a href="https://nift.cc">Nift</a>.</p>
+	</footer>

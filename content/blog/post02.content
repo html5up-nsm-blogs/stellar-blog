@@ -1,0 +1,17 @@
+<!-- Header -->
+<header id="header">
+	<h1>Post 2: A project I recently finished</h1>
+	<p>Ipsum dolor sit amet nullam</p>
+</header>
+
+@input(template/menu.content)
+
+<!-- Main -->
+<div id="main">
+	<!-- Content -->
+	<section id="content" class="main">
+		<textarea class="markdown">
+			Markdown content goes here, you could put it in a new markdown file *blog/post02.md* if you wanted and then have \@input(blog/post02.md).
+		</textarea>
+	</section>
+</div>

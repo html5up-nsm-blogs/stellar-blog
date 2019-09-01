@@ -1,0 +1,41 @@
+<!-- Header -->
+<header id="header">
+	<h1>Blog</h1>
+	<p>Ipsum dolor sit amet nullam</p>
+</header>
+
+@input(template/menu.content)
+
+<!-- Main -->
+<div id="main">
+	<!-- Content -->
+	<section id="content" class="main">
+		<center><h3>Contents</h3></center>
+		<div class="table-wrapper">
+			<table class="alt">
+				<thead>
+					<tr>
+						<th>Date</th>
+						<th>Title</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>14/05/2019</td>
+						<td><a href="@pathto(blog/post02)">Post 2</a>: A project I recently finished</td>
+					</tr>
+					<tr>
+						<td>03/02/2019</td>
+						<td><a href="@pathto(blog/post01)">Post 1</a>: My first blog post</td>
+					</tr>
+				</tbody>
+				<tfoot>
+					<tr>
+						<th>Date</th>
+						<th>Title</th>
+					</tr>
+				</tfoot>
+			</table>
+		</div>
+	</section>
+</div>
