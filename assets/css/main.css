@@ -3389,10 +3389,11 @@ input, select, textarea {
 					font-size: 0.9em;
 				}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 499px) {
 
 			#nav {
 				width:100%;
+				max-width: 100%;
 			}
 
 				#nav + #main {
