@@ -1,7 +1,9 @@
 <!-- Nav -->
+<center style="margin-bottom:40px">
 	<nav id="nav">
 		<ul>
 			<li><a href="@pathto(index)">Home</a></li>
 			<li><a href="@pathto(blog)">Blog</a></li>
 		</ul>
 	</nav>
+</center>
