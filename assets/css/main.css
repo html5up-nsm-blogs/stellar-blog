@@ -3238,8 +3238,7 @@ input, select, textarea {
 		background-color: #ffffff;
 		color: #636363;
 		position: absolute;
-		width: 64em;
-		max-width: calc(100% - 4em);
+		width: 100%;
 		padding: 1em;
 		background-color: #f7f7f7;
 		border-top-left-radius: 0.25em;
@@ -3256,8 +3255,7 @@ input, select, textarea {
 		background-color: #ffffff;
 		color: #636363;
 		position: relative;
-		width: 64em;
-		max-width: calc(70% - 4em);
+		width: 100%;
 		padding: 1em;
 		background-color: #f7f7f7;
 		border-top-left-radius: 0.25em;
