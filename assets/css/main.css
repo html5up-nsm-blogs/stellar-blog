@@ -3393,7 +3393,7 @@ input, select, textarea {
 
 			#nav {
 				width:100%;
-				max-width: 100%;
+				max-width: 100% !important;
 			}
 
 				#nav + #main {
