@@ -138,6 +138,7 @@ pre
 	min-width: 130px !important;
 	max-width: 90%;
 	overflow: auto;
+	margin: 0 auto;
 
 	font-family:'Monaco', 'Menlo', courier, monospace;
 	font-size: 0.8em;

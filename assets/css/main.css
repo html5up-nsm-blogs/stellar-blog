@@ -278,7 +278,7 @@ input, select, textarea {
 		padding: 0.5em 0 0.5em 2em;
 	}
 
-	pre {
+	/*pre {
 		border-radius: 8px;
 		border: solid 1px;
 		font-family: "Courier New", monospace;
@@ -299,7 +299,7 @@ input, select, textarea {
 			line-height: 1.75;
 			padding: 1em 1.5em;
 			overflow-x: auto;
-		}
+		}*/
 
 	hr {
 		border: 0;
@@ -343,10 +343,10 @@ input, select, textarea {
 		border-left-color: rgba(255, 255, 255, 0.35);
 	}
 
-	pre {
+	/*pre {
 		background: rgba(255, 255, 255, 0.075);
 		border-color: rgba(255, 255, 255, 0.35);
-	}
+	}*/
 
 	hr {
 		border-bottom-color: rgba(255, 255, 255, 0.35);
@@ -3430,10 +3430,10 @@ input, select, textarea {
 			border-left-color: #dddddd;
 		}
 
-		#main pre {
+		/*#main pre {
 			background: rgba(222, 222, 222, 0.25);
 			border-color: #dddddd;
-		}
+		}*/
 
 		#main hr {
 			border-bottom-color: #dddddd;
